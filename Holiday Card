@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+        <style> 
+            h1 {color:rgb(245, 98, 132);}
+            h2 {color:rgb(139, 227, 176);}
+            h3 {color:rgb(131, 202, 222);}
+            body {background-color:rgb(242, 242, 242);}
+        </style>
+    </head>
+    <body>
+
+        <h1>Happy Holidays!!</h1>
+        <h2>My wishes for you</h2>
+        <img src="https://www.kasandbox.org/programming-images/creatures/Hopper-Jumping.png" width="100">
+        <p>I hope you vacation is goping well wether you are away on some exotic island exploring the whole city eating the amazing food there or sitting in your bed watching netflix eating your 5th bag of chips.</P>
+        <h3>Vacation</h3>
+        <p>If you want to go on a vacation witgh me next time just contact me at 613-123-4567 or Myvacawithyou@gmail.com </p>
+        <h2>My Holidays</h2>
+        <img src="https://www.kasandbox.org/programming-images/seasonal/fireworks-scattered.png" alt="Rabbit with lop ears in barn" width="203">
+        <p>My Holidays been a little crazy but thats what makes them amazing right? ;) Anyways back to my vacation i went to Hawaii for a week then to switzerland for two weeks and now im back sitting in my bed watch
+    ing netflix on my 6th bag of chips (Did I mention that they are the tiny ones?) Anyway I will explain my two big trips next. </p>
+    <h3> Hawaii</h3>
+    <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" alt="Rabbit with lop ears in barn" width="203">
+    <p>In Hawaii i went all over that place, i loved swimming in the ocean, in fact that I swam in the ocean at least once every day (That's how much I loved it) I also went scuba diving a lot it was really dfun to learn about all the cool exotic fish they have there, well compared to Canada anyway. we went on some sort of adventure every day while we were there. I went with my friends Julia, Heather, and Megan. We had a great time and really enjoyed it and can't wait to come back for a longer time and a great and fun tuime again.
+    <h3> Switzerland</h3>
+    <img src="https://www.kasandbox.org/programming-images/landscapes/mountain_matterhorn.png" alt="Rabbit with lop ears in barn" width="203">
+    <p>I went to Switzerland with the same people just for a week longer,we had a hike in the moutains every morning and out adn then something in the day that always ended up being fun! we stayed with my moms friend Stacey her husband and her 2 year old daughter Sophie we had a great tuike and i hope your summer was as great as mine was!</p>
+     
+    </body>
+</html>
